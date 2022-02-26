@@ -1,3 +1,5 @@
+-- 1
+
 local a,b,c=nil,nil,nil([[
 
 	Sol Script 1#
